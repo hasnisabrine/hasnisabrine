@@ -12,7 +12,7 @@
   
 ## 🛠️ Tech Stack 
 
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/Testing-informational?style=flat-square&logo=playwright"/> <br>
   <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium"/>
   <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress"/>
@@ -21,15 +21,15 @@
 
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Languages-blue?style=flat-square&logo=python"/>
+<p >
+  <img src="https://img.shields.io/badge/Languages-blue?style=flat-square&logo=python"/><br>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java"/>
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql"/>
 </p>
 
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azuredevops"/>
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode"/>
 </p>
 
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/Methods-Agile-FCA121?style=flat-square"/>
   <img src="https://img.shields.io/badge/-TDD-FF4081?style=flat-square"/>
   <img src="https://img.shields.io/badge/-CI/CD-4CAF50?style=flat-square&logo=gitlab"/>
